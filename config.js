@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person from jamaica and in the world! 🎉💝💖💝💓",
+        title: "Yay! I'm the luckiest person from yard and abroad! 🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug,a huge kiss and BUDDY!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
